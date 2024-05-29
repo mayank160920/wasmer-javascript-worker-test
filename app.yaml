@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: mayank160920-wasmer-javascript-worker-test
+owner: mayank160920
+package: .
